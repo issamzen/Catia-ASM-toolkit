@@ -70,6 +70,4 @@ For a specific project or custom request:
 
 The application is free to use. Custom support and additional development requests may be paid services, with pricing based on complexity.
 
-## License
 
-Add a `LICENSE` file before publishing the repository. The license must clearly state whether the source is open source, source-available, or all rights reserved. The phrase “free to use” by itself is not a complete software license.
