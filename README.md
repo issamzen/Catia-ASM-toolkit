@@ -1,6 +1,6 @@
 <div align="center">
 
-LOGO (1).pngIA V5 ASM Automation Toolkit" width="120"/>
+LOGO (1).png IA V5 ASM Automation Toolkit" width="120"/>
 
 # Engineering Surface – CATIA V5 ASM Automation Toolkit
 
@@ -9,7 +9,7 @@ LOGO (1).pngIA V5 ASM Automation Toolkit" width="120"/>
 ![Version](https://.io/badge/version-1.0-blue.svg
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-g
 ![CATIA](https://img.shields.io/IA-V5-green.svg
-![License](httpslds.io/badge/license-Free-orange.svg
+
 
 *Windows desktop utility for engineers who need faster assembly management, BOM generation and CATDrawing creation directly from CATIA V5.*
 
