@@ -6,9 +6,9 @@
 
 **Professional CATIA V5 assembly inspection, BOM management and drawing automation**
 
-![Version](https://.io/badge/version-1.0-blue.svg
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-g
-![CATIA](https://img.shields.io/IA-V5-green.svg
+[![Version](https://img.shields.io/badge/version-3.7.5-blue.svg)](https://github.com/YOUR_USERNAME/catia-stackup-dashboard/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)]()
+[![.NET](https://img.shields.io/badge/.NET-4.8-purple.svg)]()
 
 
 *Windows desktop utility for engineers who need faster assembly management, BOM generation and CATDrawing creation directly from CATIA V5.*
