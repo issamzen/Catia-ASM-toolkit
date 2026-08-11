@@ -1,4 +1,12 @@
-# Engineering Surface – CATIA V5 Automation Toolkit
+<div align="center">
+
+<!-- Replace with your logo -->
+<img src="LOGO (1).png" alt="CATIA_ASM Automation Toolkit" width="120"/>
+
+
+
+# Engineering Surface – CATIA V5 ASM Automation Toolkit
+
 
 A Windows desktop application for inspecting and managing CATIA V5 assemblies, editing component metadata, generating bills of materials, and creating structured drawing sheets.
 
