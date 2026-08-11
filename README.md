@@ -1,6 +1,6 @@
 <div align="center">
 
-LOGO (1).png IA V5 ASM Automation Toolkit" width="120"/>
+<img src="LOGO (1).png" alt="CATIA ASM Automation Toolkit" width="120"/>
 
 # Engineering Surface – CATIA V5 ASM Automation Toolkit
 
