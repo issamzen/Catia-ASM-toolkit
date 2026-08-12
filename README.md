@@ -33,7 +33,8 @@ The toolkit helps engineers:
 - Improve assembly documentation workflows
 
 > This is an independent engineering utility and is not affiliated with or endorsed by Dassault Systèmes. CATIA is a trademark of Dassault Systèmes.
->Watch full demonstration video : https://www.youtube.com/watch?v=ru3x36zQAbk&t=1s
+
+Watch full demonstration video : https://www.youtube.com/watch?v=ru3x36zQAbk&t=1s
 
 ---
 
